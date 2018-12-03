@@ -1,4 +1,5 @@
 # Vetro Media Pratical Test
+#Please run this command 'composer update' on your compute before runing this project
 #this a currency purchase web application
 #step to follow
 ->First start the application
